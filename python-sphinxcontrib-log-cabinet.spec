@@ -7,7 +7,7 @@ Summary:	Sphinx extension to organize changelogs
 Summary(pl.UTF-8):	Rozszerzenie Sphinksa do porządkowania changelogów
 Name:		python-sphinxcontrib-log-cabinet
 Version:	1.0.1
-Release:	6
+Release:	7
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sphinxcontrib-log-cabinet/
